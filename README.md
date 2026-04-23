@@ -37,11 +37,6 @@
 
 ---
 
-## 📈 Mis Estadísticas de GitHub
-![Estadísticas de Mauro](https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGitHub&show_icons=true&theme=radical)
-
----
-
 ## 📬 ¡Hablemos!
 Estoy siempre abierto a sugerencias, colaboraciones o simplemente a charlar sobre tecnología. 
 - **LinkedIn:** [Mauro Ulloa](https://www.linkedin.com/in/mauro-ulloa-3078b1175/)
